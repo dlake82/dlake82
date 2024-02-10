@@ -3,10 +3,7 @@
 
 
 > notion 주소
-
-
-https://golden-dolphin-ab4.notion.site/48bd5ca189b0463f9733b7d96f84f7de
-
+https://play-helloworld.notion.site
 
 📧 **Email**
 
