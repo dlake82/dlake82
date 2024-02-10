@@ -1,9 +1,10 @@
 ###  김현우 (일단 해! 개발!)
 
 
->> notion 주소
+> notion 주소
 
 https://play-helloworld.notion.site/play-helloworld/cf8627082ecc487da9e331fddd90fc99
+
 📧 **Email**
 
 gusdn0828@gmail.com 
