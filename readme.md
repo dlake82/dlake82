@@ -12,6 +12,7 @@ gusdn0828@gmail.com
 🐶 **Github**
 
 [https://github.com/dlake82](https://github.com/dlake82)
+// 이전 계정인 cskhw는 핸드폰 침수로 인해 2FA 키를 잃어버려 잠긴 상태입니다.
 
 📚 **Tistory Blog**
 
