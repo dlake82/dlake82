@@ -69,10 +69,6 @@ Docker를 활용해 개발환경을 구축한 경험이 있습니다.  Nginx를 
 
 Git을 활용해 소스 코드 버전 관리 및 협업을 할 수 있습니다. Github과 Gitlab, GitHub Actions을 활용한 프로젝트 관리 경험이 있습니다.
 
-[💻 경력     ](https://www.notion.so/a3af4398016141c0a7e05ff4431f4da1)
-
-[🧳 활동  ](https://www.notion.so/ab0fe1ee12a24cba8f8df2bf0b659fba)
-
 ## 📗 자격증
 
 2021.03 정보처리기사 취득 
